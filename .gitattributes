@@ -1,0 +1,7 @@
+# Here is a file example documenting and detecting all .kt files in /app/... up to 7 directories down, including /app/ Add more if needed
+
+# linguist-detectable
+/app/*/*/*/*/*/*/*.kt linguist-detectable
+
+# -linguist-documentation
+/app/*/*/*/*/*/*/*.kt -linguist-documentation
