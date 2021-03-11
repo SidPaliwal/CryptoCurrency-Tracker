@@ -34,6 +34,7 @@ Cryptocurrencies daily stats and news tracking App.
 * Clicking a news item will open the full article in chrome custom tab.
 <br/>
 <br/>
+
 ## SPECIFICATIONS
 
 * Crptocurrencies real time prices , Market cap and changes in percentage of price over time.
