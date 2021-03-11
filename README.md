@@ -30,6 +30,10 @@ Cryptocurrencies daily stats and news tracking App.
 
 <br/><br/>
 
+* All the recent news feed related to cryptocurrency is fetch and displayed here.
+* Clicking a news item will open the full article in chrome custom tab.
+<br/>
+<br/>
 ## SPECIFICATIONS
 
 * Crptocurrencies real time prices , Market cap and changes in percentage of price over time.
