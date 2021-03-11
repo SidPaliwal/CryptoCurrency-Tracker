@@ -5,6 +5,11 @@ Cryptocurrencies daily stats and news tracking App.
 
 <img src="https://user-images.githubusercontent.com/76839436/110776042-9e1e9e00-8285-11eb-914b-0204e7a66cfb.jpeg" width="250"/> &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/76839436/110774635-08ceda00-8284-11eb-8cbb-d4508b27d79a.jpeg" width="250"/>  &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/76839436/110774767-2a2fc600-8284-11eb-96a2-66497e02e69b.jpeg" width="250"/>
 
+* Filter cryptocurrencies using the filters.
+* Changes in percentage of price hour,day and week are displayed in each card.
+* Clicking on any cryptocurrency item will display its ohlc chart.
+
+
 ## OHLC CHART FOR CRYPTOCURRENCY
 
 <img src="https://user-images.githubusercontent.com/76839436/110774906-50edfc80-8284-11eb-9b43-798a61ac3f1b.jpeg" width="250"/> &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/76839436/110774979-6b27da80-8284-11eb-860e-a33e3b057d2a.jpeg" width="250"/>  &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/76839436/110775032-7a0e8d00-8284-11eb-96e8-662f98e52b6d.jpeg" width="250"/>
