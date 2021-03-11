@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CryptoVerse</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title">title</string>
+    <string name="author">author</string>
+    <string name="home">CryptoCurrencies</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="cryptocurrency_news">Cryptocurrency News</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="BASHBOARD_TEXT">DASHBOARD</string>
+    <string name="filters">filters</string>
+    <string name="sort_by">Sort by …</string>
+
+    <string-array name="crypto_list">
+        <item>24H Volume</item>
+        <item>24H Volume Top Tier</item>
+        <item>Market Cap</item>
+    </string-array>
+</resources>
