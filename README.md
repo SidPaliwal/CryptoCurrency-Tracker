@@ -53,6 +53,7 @@ Cryptocurrencies daily stats and news tracking App.
 * Volley - For Network requests
 * Robinhood Sparkview - For OHLC chart
 * Robinhood Tickerview - For cool price change design
+* Glide - For loading Images
 
 ## Objectives learned Throughout project
 
